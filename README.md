@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![suukii's github stats](https://github-readme-stats.vercel.app/api?username=suukii&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=suukii&show_icons=true)
+
+![](https://github-profile-trophy.vercel.app/?username=suukii&theme=flat&column=6)
 
 - 🌱 I’m currently learning testing vuejs applications.
