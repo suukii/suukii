@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=suukii&show_icons=true)
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=suukii&theme=flat&column=6) -->
+
+Now is no time to think of what you do not have. Think of what you can do with what there is.
